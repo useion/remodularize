@@ -1,0 +1,12 @@
+{
+  "name": "remodularize",
+  "description": "",
+  "version": "0.0.1",
+  "main": "index.js",
+  "private": true,
+  "scripts": {},
+  "author": "Michal Bystricky <michal.bystricky@stuba.sk>",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
